@@ -7,7 +7,7 @@ For MFCC-GMM system, implementation is completely python based.
 PyaudioAnalysis library has been used for feature extraction of voiced reagion of speaker
 GMM modeling is done using sklearn package in python
 
-For LPCC-GMM system implementation is partly in MATLAB and python
-For feature extraction MATLAB script is used and GMM training is done using sklearn
+For LPCC-GMM system implementation is partly in Scilab and python
+For feature extraction Scilab script is used and GMM training is done using sklearn
 
 Various experiments done for hyderparameter optimization can be found in report.
