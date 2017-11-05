@@ -10,4 +10,4 @@ GMM modeling is done using sklearn package in python
 For LPCC-GMM system implementation is partly in Scilab and python
 For feature extraction Scilab script is used and GMM training is done using sklearn
 
-Various experiments done for hyderparameter optimization can be found in report.
+Various experiments done for hyperparameter optimization can be found in report.
